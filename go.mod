@@ -1,4 +1,4 @@
-module github.com/Songmu/gotesplit
+module github.com/shibayu36/gotesplit
 
 go 1.21
 
